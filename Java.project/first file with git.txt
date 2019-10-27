@@ -1,0 +1,3 @@
+first line in git file
+
+Linia de a doua zi :)

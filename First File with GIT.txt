@@ -4,3 +4,5 @@ FirstLine in the GIT
 Linia de a doua zi :)
 
 Linia de a treia zi :0
+
+A patra linie :((((
